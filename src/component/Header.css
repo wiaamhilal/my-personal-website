@@ -1,0 +1,48 @@
+.logo-img {
+  width: 100px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+.social {
+  display: flex;
+  align-items: center;
+}
+.Header {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #444;
+}
+.whats-img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 6px;
+  background-color: white;
+}
+.linkedin-img {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 6px;
+  background-color: white;
+  margin-left: 12px;
+  margin-right: 20px;
+}
+.github-img {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 6px;
+  background-color: white;
+}
+.email-img {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 6px;
+  background-color: white;
+  margin: 0 20px 0 20px;
+}
