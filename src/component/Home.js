@@ -44,16 +44,16 @@ const Home = () => {
               </a>
             </div> */}
             <div className="proj-chail col-12 col-sm-6">
-              <span className="title-soc">1- Furniture store :</span>
+              <span className="title-soc">1- Online store :</span>
               <div className="proj-hold">
-                <a href="https://nader-24b9d.web.app/">
+                <a href="https://frontend-mern-eclz.onrender.com">
                   <span>Visit</span>
                   <img className="proj-img" alt="proj" src={realState} />
                 </a>
               </div>
             </div>
             <div className="proj-chail col-12 col-sm-6 ">
-              <span className="title-soc">2- Online store :</span>
+              <span className="title-soc">2- Amazon Clone :</span>
               <div className="proj-hold">
                 <a href="https://fir-b9b5e.web.app/">
                   <span>Visit</span>
