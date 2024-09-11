@@ -46,7 +46,7 @@ const Home = () => {
             <div className="proj-chail col-12 col-sm-6">
               <span className="title-soc">1- Online store :</span>
               <div className="proj-hold">
-                <a href="https://frontend-mern-eclz.onrender.com">
+                <a href="https://wiaam-store.web.app/">
                   <span>Visit</span>
                   <img className="proj-img" alt="proj" src={realState} />
                 </a>
